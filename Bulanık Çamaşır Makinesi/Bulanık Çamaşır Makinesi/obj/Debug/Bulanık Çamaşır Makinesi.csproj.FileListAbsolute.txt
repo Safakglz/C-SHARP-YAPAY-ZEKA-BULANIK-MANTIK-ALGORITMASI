@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.exe.config
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.exe
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.pdb
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık_Çamaşır_Makinesi.Form1.resources
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık_Çamaşır_Makinesi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.exe
+C:\Users\ASUS\Desktop\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.pdb
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.exe.config
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.exe
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.pdb
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csprojAssemblyReference.cache
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık_Çamaşır_Makinesi.Form1.resources
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık_Çamaşır_Makinesi.Properties.Resources.resources
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.GenerateResource.cache
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.CoreCompileInputs.cache
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.exe
+D:\ÜNİVERSİTE\Üniversite 3.Sınıf\Yapay Zeka\Ödev\Bulanık\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.pdb
